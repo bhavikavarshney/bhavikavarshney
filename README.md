@@ -31,13 +31,13 @@ I'm currently a student doing my B.Tech in CSIT 💻
 
 <!-- currently working on -->
 
-## 🔭 [I’m currently working on:](#i'm-currently-working-on)
+## 🔭 I’m currently working on:
 1. Portfolio `using HTML/ CSS`
 2. HD-2D game build `using UE5`
 
 <br>
 
-## 💼 [Technical Skills:](#technical-skills)
+## 💼 Technical Skills:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +48,7 @@ I'm currently a student doing my B.Tech in CSIT 💻
 <br>
 
 
-## 📫 [You can reach me at:](#you-can-reach-me-at)
+## 📫 You can reach me at:
 
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bhavika|LinkedIn" width="21px"> <a href="https://www.linkedin.com/in/bhavika-varshney-30032002/">Bhavika Varshney</a>
 

@@ -1,7 +1,7 @@
 <!-- banner -->
 
-<p align=”center”>
-<img width="500" height="250" src="https://user-images.githubusercontent.com/100194346/233733713-0e4cb95a-525f-4e34-9f7a-012fc676efdc.png" alt="my banner">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100194346/233733713-0e4cb95a-525f-4e34-9f7a-012fc676efdc.png" />
 </p>
 
 <!-- intro -->

@@ -1,7 +1,7 @@
 <!-- banner -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100194346/233733713-0e4cb95a-525f-4e34-9f7a-012fc676efdc.png" />
+  <img src="https://user-images.githubusercontent.com/100194346/233744793-ba693f6f-9d42-45e4-b4d8-d37ba5ede125.png" />
 </p>
 
 <!-- intro -->

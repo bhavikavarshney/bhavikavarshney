@@ -1,7 +1,7 @@
 <!-- banner -->
 
 <p align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/100194346/233744793-ba693f6f-9d42-45e4-b4d8-d37ba5ede125.png" />
+  <img width="80%" alt="Hi! I'm Bhavika" src="https://user-images.githubusercontent.com/100194346/233744793-ba693f6f-9d42-45e4-b4d8-d37ba5ede125.png" style="max-width: 100%;"/>
 </p>
 
 <!-- intro -->

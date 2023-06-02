@@ -9,7 +9,7 @@
 <h3 align="center">
 Hello there 👋
 <br> 
-I'm ✨<a href="https://bhavikavarshney.github.io/Portfolio/index.html" target="_blank" rel="noreferrer">Bhavika</a>✨ 
+I'm ✨<a href="https://bhavikavarshney.github.io/About/" target="_blank" rel="noreferrer">Bhavika</a>✨ 
 </h3>
 
 <!-- small desc -->

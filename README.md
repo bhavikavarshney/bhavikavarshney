@@ -30,7 +30,7 @@ I'm currently a student doing my B.Tech in CSIT 💻
 <br>
 
 <!--worked on -->
-## Projects I have worked on:
+## 💻 Projects I have worked on:
 1. [Government registered assets in a single forum](https://github.com/Danish0929x/real-government-forum) `using Solidity`.
 2. [Revothsava Website](https://github.com/shivam-jainn/revaotsava) `using HTML/ CSS with JS`.
 3. [Virtual Assistant](https://github.com/Mcznee/MACHINA) `using Python`.

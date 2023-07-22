@@ -23,9 +23,10 @@ I'm currently a student doing my B.Tech in CSIT 💻
 
 ### About me:
 + 👩 21
-+ 📚 Studying in 4th Sem
-+ 🌱 Currently learning js
++ 📚 Studying in 5th Sem
++ 🌱 Currently learning ML
 + 🖌️ I enjoy painting
++ 🎸 I play the guitar
 
 <br>
 

@@ -6,10 +6,10 @@
 <!-- intro -->
 
 <h2 align="center">
-Hello there 👋
-<br> 
+Hello there 👋 </h2>
+<h1 align ="center">
 I'm ✨<a href="https://bhavikavarshney.github.io/About/" target="_blank" rel="noreferrer">Bhavika</a>✨ 
-</h2>
+</h1>
 <!-- small desc -->
 
 <h3 align="center">
@@ -68,6 +68,6 @@ I love cats and tech ^^
 <br>
 <!-- stats -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikavarshney&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="bhavikavarshney-mostusedlanguages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikavarshney&show_icons=true&locale=en&theme=material-palenight" alt="bhavikavarshney-stats" /></p>
+<p><img align="left" height="220" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikavarshney&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="bhavikavarshney-mostusedlanguages" /></p>
 
+<p>&nbsp;<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=bhavikavarshney&show_icons=true&locale=en&theme=material-palenight" alt="bhavikavarshney-stats" /></p>

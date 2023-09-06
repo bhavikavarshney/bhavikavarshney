@@ -1,8 +1,9 @@
 <!-- banner -->
 
 <p align="center">
-  <img width="80%" alt="Hi! I'm Bhavika" src="https://user-images.githubusercontent.com/100194346/233744793-ba693f6f-9d42-45e4-b4d8-d37ba5ede125.png" style="max-width: 100%;"/>
+  <img width="80%" alt="Hi! I'm Bhavika" src="https://github.com/bhavikavarshney/bhavikavarshney/assets/100194346/473e85d8-3ace-4f32-8190-b47e06214442" style="max-width: 100%;"/>
 </p>
+
 <!-- intro -->
 
 <h2 align="center">

@@ -29,17 +29,10 @@ I love cats and tech ^^
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bhavika|LinkedIn" width="21px"> <a href="https://www.linkedin.com/in/bhavika-varshney-30032002/">Bhavika Varshney</a>
 <br>
 <img src="https://user-images.githubusercontent.com/100194346/233740060-f952f2d1-19f0-455c-89e4-d24a304f314e.png" alt="Bhavika|Gmail" width="21px"> <a href="https://gmail.com">bhavika.varshney@gmail.com</a>
-<!--worked on -->
-
-## 💻 Projects I have worked on:
-1. [Government registered assets in a single forum](https://github.com/Danish0929x/real-government-forum) `using Solidity`.
-2. [Revothsava Website](https://github.com/shivam-jainn/revaotsava) `using HTML/ CSS with JS`.
-3. [Virtual Assistant](https://github.com/Mcznee/MACHINA) `using Python`.
-4. [About me](https://github.com/bhavikavarshney/About) `using HTML/ CSS with JS`.
 <!-- currently working on -->
 
 ## 🔭 I’m currently working on:
-1. Portfolio `using HTML/ CSS`
+1. Portfolio `using react.js`
 2. HD-2D game build `using UE5`
 <!-- technical skills -->
 

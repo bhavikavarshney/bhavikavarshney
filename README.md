@@ -6,7 +6,7 @@
 
 <!-- intro -->
 
-<h2 align="center">Hello there 👋</h2>
+<h2 align="center">Hello there👋</h2>
 <h1 align ="center">
 I'm ✨<a href="https://bhavikavarshney.github.io/About/" target="_blank" rel="noreferrer">Bhavika</a>✨ 
 </h1>
@@ -19,8 +19,8 @@ I love cats and tech ^^
 
 ### About me:
 + 👩 21
-+ 📚 Studying in 5th Sem
-+ 🌱 Currently learning ML
++ 📚 Studying in 3rd Year of B.Tech
++ 🌱 Currently studying Deep Learning
 + 🖌️ I enjoy painting
 + 🎸 I play the guitar
 <!-- socials -->

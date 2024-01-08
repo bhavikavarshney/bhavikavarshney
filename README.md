@@ -27,7 +27,7 @@ I love cats and tech ^^
 ## 🔭 I’m currently working on:
 1. Portfolio `using react.js`
 2. HD-2D game build `using UE5`
-3. Brim<3 game using `JS`
+3. Brim game using `JS`
 <!-- technical skills -->
 
 ## 💼 Technical Skills:
